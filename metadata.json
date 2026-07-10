@@ -1,0 +1,6 @@
+{
+  "name": "3-4-3 Planner",
+  "description": "یک اپلیکیشن برنامه‌ریزی روزانه حرفه‌ای بر اساس متد علمی ۳-۴-۳ برای مدیریت زمان و غلبه بر اهمال‌کاری.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
